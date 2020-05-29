@@ -25,7 +25,7 @@ SECRET_KEY = 'umec=%k@pd$)jmfx84y$2h$6&b2(ejds21ai2)8dxb)$2#))v#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
